@@ -8,9 +8,9 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODM5NTEwOTc0ODM4ODY1OTcx.YJKthQ.4P6f9-wT6IftsDnq15FWkucp1hk',
+        token: 'weeeeeeeeeeee',
         prefix: '-',
-        activity: '-HELP | TGP NETWORK',
+        activity: 'Pretty Simple huh?',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
