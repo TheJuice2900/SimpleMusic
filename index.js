@@ -38,14 +38,6 @@ for (const file of player) {
     client.player.on(file.split(".")[0], event.bind(null, client));
 };
 
-//owner Only Section :P
-// fk this shit , ill code later im lazy af. lmao
-
-
-
-
-
-// client for track add instance :P
 const disbut = require('discord-buttons');
 disbut(client);
 
