@@ -1,0 +1,19 @@
+{
+  "name": "music-bot",
+  "main": "index.js",
+  "author": "JuicyPie",
+  "version": "5.0.0",
+  "repository": "",
+  "description": "subscribe to youtube.com/TheZEUSOfficial",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.4.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "node.js": "^0.0.1-security",
+    "opusscript": "^0.0.8"
+  }
+}
